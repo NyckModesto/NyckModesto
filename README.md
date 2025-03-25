@@ -1,21 +1,21 @@
-<h2 align="left">👋Sobre mim</h2>
+<h1 align="left">👋Sobre mim</h1>
 
 ###
 
-<p align="left">-Sou o Nycolas Modesto, desenvolvedor web com mais experciencia em HTML, CSS e JavaScript, buscando aprimorar minhas habilidades em Python com foco de expandir meu conhecimento e aprimorar minhas habilidades em front-end e back-end.</p>
+<h4 align="left">-Sou o Nycolas Modesto, desenvolvedor web com mais experciencia em HTML, CSS e JavaScript, buscando aprimorar minhas habilidades em Python com foco de expandir meu conhecimento e aprimorar minhas habilidades em front-end e back-end.</h4>
 
 ###
 
-<h2 align="left">🗃️Habilidades</h2>
+<h1 align="left">🗃️Habilidades</h1>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
