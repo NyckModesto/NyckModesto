@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">-Sou o Nycolas Modesto, desenvolvedor web com mais experciencia em HTML, CSS e JavaScript, buscando aprimorar minhas habilidades em Python com foco de expandir meu conhecimento e aprimorar minhas habilidades em front-end e back-end.</h4>
+<h4 align="left">-Sou o Nycolas Modesto, desenvolvedor web em formação com mais experciencia em HTML, CSS e JavaScript, buscando aprimorar minhas habilidades em Python com foco de expandir meu conhecimento e aprimorar minhas habilidades em front-end e back-end.</h4>
 
 ###
 
